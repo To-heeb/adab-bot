@@ -1,9 +1,11 @@
 #1 Users visit the bot (thery are greated by the bot)
-#2 Click on what they want to do in the option
-#3 Search for a particular word with the bot
-#4 Select the format they want thier response
-#5 Based on user response, search the wordpress API or googlr drive api
+#2 Select the format they want thier response
+#3 Click on the displaced chapters
+#4 Select the baab returned based on the chapter
+#5 Based on user response, search the wordpress API or google drive api
+#6 Return the note/audio/(audio & notes) in that baab
 
+adabul_mufrad_bot
 
 #TODO
 
